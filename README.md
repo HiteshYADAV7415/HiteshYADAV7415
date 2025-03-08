@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hiteshwar Sahai
 
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Web development as a intermediate developer.
 # 💫 About Me 
 <p>Hi! My name is<span> Hiteshwar Sahai </span>My strong technical skills, combined with my attention to detail and passion for customer service, have helped me to become a trusted advisor to my customers. I am always willing to go above and beyond to ensure that my customers are satisfied with the support they receive.
   
